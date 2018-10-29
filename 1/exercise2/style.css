@@ -1,7 +1,17 @@
 body {
-	background-color: gold;
+	background-color: white;
+	color: black;
 }
 h1 {
 	color: navy
 	margin-left: 20px;
+}
+p.b {
+    font-family: Arial, Helvetica, sans-serif;
+}
+div.a {
+    line-height: normal;
+}
+div.b {
+    line-height: 1.6;
 }
